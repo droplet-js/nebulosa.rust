@@ -1,0 +1,16 @@
+* text eol=lf
+
+*.dat           binary
+*.bsp           binary
+*.bpc           binary
+*.fit           binary
+*.fits          binary
+*.xisf          binary
+*.ttf           binary
+*.xcf           binary
+*.jpg           binary
+*.png           binary
+*.db            binary
+*.gz            binary
+*.dll           binary
+*.so            binary
